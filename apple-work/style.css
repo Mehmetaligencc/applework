@@ -1,0 +1,76 @@
+body { 
+    overflow-x: hidden 
+    !important; 
+}
+
+.nav-item{
+    font-size: 0.7em;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.5s ease;
+}
+
+.nav-item:hover{
+    transform: translateY(3px);
+}
+
+.img-fluid{
+    height: 17px;
+    transition: 0.5s ease;
+}
+
+.img-fluid:hover{
+    transform: translateX(3px);
+}
+
+.text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.6em;
+    transition: 0.5s ease;
+}
+
+.text:hover{
+    transform: translateX(10px);
+}
+
+.yazı{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8em;
+}
+
+.storetext{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+}
+
+.storetext1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.8em;
+}
+
+.watch {
+    width: 350px;
+}
+
+.ipad{
+    width: 350px;
+}
+
+.macbook{
+    width: 400px;
+}
+
+.ultra{
+    color: #FF6633
+}
+
+.footertext{
+    font-size: 0.8em;
+}
+
+.h5text{
+    font-size: 0.8em;
+}
+
+.paragraftext{
+    font-size: 0.7em;
+}
